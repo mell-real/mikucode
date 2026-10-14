@@ -46,14 +46,6 @@
 
 ---
 
-## 🎬 Демо
-
-![MikuCode demo](screenshots/demo.gif)
-
-*Создание lo-fi трека за 30 секунд*
-
----
-
 ## ✨ Возможности
 
 ### 💻 Программирование
@@ -347,12 +339,6 @@ MikuCode выполняет **любые** команды и записывае�
 - [MIDIUtil](https://github.com/MarkCWirt/MIDIUtil) — MIDI
 - [pyflp](https://github.com/demberto/PyFLP) — FL Studio
 - [PyInstaller](https://pyinstaller.org) — сборка бинарников
-
----
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourname/mikucode&type=Date)](https://star-history.com/#yourname/mikucode&Date)
 
 ---
 
