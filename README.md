@@ -7,9 +7,12 @@
 
 **Terminal AI assistant for coding, Windows, and FL Studio**
 
-[![Version](https://img.shields.io/badge/version-1.8-cyan?style=for-the-badge)](https://github.com/yourname/mikucode)
+[![Version](https://img.shields.io/badge/version-1.8.2-cyan?style=for-the-badge)](https://github.com/yourname/mikucode)
 [![Python](https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge&logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+[![Model](https://img.shields.io/badge/model-mikuai--4--kyle-purple?style=for-the-badge)]()
+[![Groq](https://img.shields.io/badge/powered%20by-Groq-orange?style=for-the-badge)](https://groq.com)
+[![YOLO](https://img.shields.io/badge/YOLO-mode-red?style=for-the-badge)]()
 
 *MikuCode is a free AI assistant in your terminal that writes code, controls Windows, creates music for FL Studio, and remembers your context.*
 
