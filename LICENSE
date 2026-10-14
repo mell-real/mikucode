@@ -1,0 +1,151 @@
+MikuCode — Proprietary License
+Copyright (c) 2026 mell_real. All rights reserved.
+
+================================================================================
+ENGLISH
+================================================================================
+
+GRANT OF LICENSE
+This software ("MikuCode") is provided free of charge for personal and
+commercial use. You are granted a non-exclusive, non-transferable,
+revocable license to:
+
+  ✅ Use MikuCode for any lawful purpose
+  ✅ Share the original, unmodified binary with others
+  ✅ Report bugs and suggest features to the author
+
+RESTRICTIONS
+You may NOT:
+
+  ❌ Decompile, disassemble, reverse-engineer, or otherwise attempt to
+     derive the source code of MikuCode
+  ❌ Modify, adapt, translate, or create derivative works based on MikuCode
+  ❌ Redistribute MikuCode as your own product or under a different name
+  ❌ Remove, alter, or obscure any copyright notices, trademarks, or
+     attribution notices contained in MikuCode
+  ❌ Sell, rent, lease, or sublicense MikuCode without written permission
+     from the author
+  ❌ Use MikuCode for any illegal or unauthorized purpose
+
+THIRD-PARTY COMPONENTS
+MikuCode uses the following open-source libraries, each governed by its
+own license:
+
+  - Groq API          — https://groq.com
+  - Rich              — MIT License
+  - prompt_toolkit    — BSD-3-Clause License
+  - MIDIUtil          — MIT License
+  - pyflp             — MIT License
+  - PyInstaller       — GPL-2.0 with exception
+
+The author of MikuCode is not affiliated with any of these projects.
+
+NO WARRANTY
+MIKUCODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR
+IN CONNECTION WITH MIKUCODE OR THE USE OR OTHER DEALINGS IN MIKUCODE.
+
+LIMITATION OF LIABILITY
+The author is not responsible for any damage caused by MikuCode,
+including but not limited to:
+
+  - Data loss caused by commands executed by the AI
+  - Files modified or deleted by the AI
+  - Any consequences of using YOLO mode
+  - Any consequences of using third-party AI providers
+
+USE AT YOUR OWN RISK.
+
+TERMINATION
+This license is effective until terminated. Your rights under this
+license will terminate automatically without notice if you fail to
+comply with any of its terms.
+
+GOVERNING LAW
+This license shall be governed by the laws of the author's country of
+residence, without regard to its conflict of law provisions.
+
+CONTACT
+For permissions beyond the scope of this license, contact:
+  GitHub: https://github.com/mell_real/mikucode
+
+================================================================================
+РУССКИЙ
+================================================================================
+
+ПРЕДОСТАВЛЕНИЕ ЛИЦЕНЗИИ
+Настоящее программное обеспечение ("MikuCode") предоставляется
+бесплатно для личного и коммерческого использования. Вам предоставляется
+неисключительная, непередаваемая, отзывная лицензия на:
+
+  ✅ Использование MikuCode в любых законных целях
+  ✅ Распространение оригинального, неизменённого бинарника
+  ✅ Сообщение об ошибках и предложение улучшений автору
+
+ОГРАНИЧЕНИЯ
+Вам ЗАПРЕЩАЕТСЯ:
+
+  ❌ Декомпилировать, дизассемблировать, реверсить или иным образом
+     пытаться получить исходный код MikuCode
+  ❌ Модифицировать, адаптировать, переводить или создавать производные
+     работы на основе MikuCode
+  ❌ Распространять MikuCode как свой продукт или под другим именем
+  ❌ Удалять, изменять или скрывать любые уведомления об авторских
+     правах, товарных знаках или атрибуции, содержащиеся в MikuCode
+  ❌ Продавать, сдавать в аренду, лизинг или сублицензировать MikuCode
+     без письменного разрешения автора
+  ❌ Использовать MikuCode в любых незаконных или несанкционированных
+     целях
+
+СТОРОННИЕ КОМПОНЕНТЫ
+MikuCode использует следующие open-source библиотеки, каждая из которых
+управляется своей собственной лицензией:
+
+  - Groq API          — https://groq.com
+  - Rich              — MIT License
+  - prompt_toolkit    — BSD-3-Clause License
+  - MIDIUtil          — MIT License
+  - pyflp             — MIT License
+  - PyInstaller       — GPL-2.0 с исключением
+
+Автор MikuCode не связан с этими проектами.
+
+БЕЗ ГАРАНТИЙ
+MIKUCODE ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ", БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ
+ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ГАРАНТИЯМИ
+ТОВАРНОЙ ПРИГОДНОСТИ, ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ И
+НЕНАРУШЕНИЯ ПРАВ. НИ В КОЕМ СЛУЧАЕ АВТОР НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ
+ЗА ЛЮБЫЕ ПРЕТЕНЗИИ, УБЫТКИ ИЛИ ИНУЮ ОТВЕТСТВЕННОСТЬ, БУДЬ ТО В
+РАМКАХ ДОГОВОРА, ДЕЛИКТА ИЛИ ИНЫМ ОБРАЗОМ, ВОЗНИКАЮЩИЕ ИЗ,
+СВЯЗАННЫЕ С MIKUCODE ИЛИ ИСПОЛЬЗОВАНИЕМ MIKUCODE.
+
+ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ
+Автор не несёт ответственности за любой ущерб, причинённый MikuCode,
+включая, но не ограничиваясь:
+
+  - Потеря данных из-за команд, выполненных AI
+  - Файлы, изменённые или удалённые AI
+  - Любые последствия использования YOLO-режима
+  - Любые последствия использования сторонних AI-провайдеров
+
+ИСПОЛЬЗУЙТЕ НА СВОЙ РИСК.
+
+ПРЕКРАЩЕНИЕ
+Настоящая лицензия действует до её прекращения. Ваши права по
+настоящей лицензии прекращаются автоматически без уведомления в
+случае несоблюдения любого из её условий.
+
+ПРИМЕНИМОЕ ПРАВО
+Настоящая лицензия регулируется законодательством страны проживания
+автора без учёта коллизионных норм.
+
+КОНТАКТЫ
+Для получения разрешений за пределами настоящей лицензии обращайтесь:
+  GitHub: https://github.com/mell_real/mikucode
+
+================================================================================
+END OF LICENSE
+================================================================================
