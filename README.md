@@ -1,7 +1,7 @@
 <div align="center">
 
-[![RU](https://img.shields.io/badge/🇷🇺_Русский-switch-lightgrey?style=for-the-badge)](README.md)
-[![EN](https://img.shields.io/badge/🇬🇧_English-current-cyan?style=for-the-badge)](README.en.md)
+[![RU](https://img.shields.io/badge/🇷🇺_Русский-switch-lightgrey?style=for-the-badge)](README.ru.md)
+[![EN](https://img.shields.io/badge/🇬🇧_English-current-cyan?style=for-the-badge)](README..md)
 
 # 🎀 MikuCode
 
