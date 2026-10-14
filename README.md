@@ -46,14 +46,6 @@ Latest release: **[v1.8.2](https://github.com/yourname/mikucode/releases/latest)
 
 ---
 
-## 🎬 Demo
-
-![MikuCode demo](screenshots/demo.gif)
-
-*Creating a lo-fi track in 30 seconds*
-
----
-
 ## ✨ Features
 
 ### 💻 Coding
@@ -347,12 +339,6 @@ You may NOT:
 - [MIDIUtil](https://github.com/MarkCWirt/MIDIUtil) — MIDI generation
 - [pyflp](https://github.com/demberto/PyFLP) — FL Studio parsing
 - [PyInstaller](https://pyinstaller.org) — binary packaging
-
----
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourname/mikucode&type=Date)](https://star-history.com/#yourname/mikucode&Date)
 
 ---
 
