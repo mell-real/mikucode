@@ -7,7 +7,7 @@
 
 **Терминальный AI-ассистент для программирования, Windows и FL Studio**
 
-[![Version](https://img.shields.io/badge/version-1.8.2-cyan?style=for-the-badge)](https://github.com/yourname/mikucode/releases)
+[![Version](https://img.shields.io/badge/version-1.8.2-cyan?style=for-the-badge)](https://github.com/mell-real/mikucode/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](LICENSE)
 [![Model](https://img.shields.io/badge/model-mikuai--4--kyle-purple?style=for-the-badge)]()
@@ -24,7 +24,7 @@
 
 ## 📥 Скачать
 
-Последний релиз: **[v1.8.2](https://github.com/yourname/mikucode/releases/latest)**
+Последний релиз: **[v1.8.2](https://github.com/mell-real/mikucode/releases/latest)**
 
 | Платформа | Файл | Статус |
 |-----------|------|--------|
@@ -35,7 +35,7 @@
 > **Важно:** Это закрытый проект. Распространяются только скомпилированные бинарники.
 
 ### Windows
-1. Скачайте `MikuCode.exe` из [Releases](https://github.com/yourname/mikucode/releases)
+1. Скачайте `MikuCode.exe` из [Releases](https://github.com/mell-real/mikucode/releases)
 2. Запустите. Установка не нужна (portable).
 3. При первом запуске Windows Defender может предупредить — нажмите **Подробнее** → **Выполнить в любом случае**.
 
