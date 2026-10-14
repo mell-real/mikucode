@@ -7,7 +7,7 @@
 
 **Terminal AI assistant for coding, Windows automation, and FL Studio music production**
 
-[![Version](https://img.shields.io/badge/version-1.8.2-cyan?style=for-the-badge)](https://github.com/yourname/mikucode/releases)
+[![Version](https://img.shields.io/badge/version-1.8.2-cyan?style=for-the-badge)](https://github.com/mell_real/mikucode/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](LICENSE)
 [![Model](https://img.shields.io/badge/model-mikuai--4--kyle-purple?style=for-the-badge)]()
@@ -24,7 +24,7 @@
 
 ## 📥 Download
 
-Latest release: **[v1.8.2](https://github.com/yourname/mikucode/releases/latest)**
+Latest release: **[v1.8.2](https://github.com/mell_real/mikucode/releases/latest)**
 
 | Platform | File | Status |
 |----------|------|--------|
@@ -35,7 +35,7 @@ Latest release: **[v1.8.2](https://github.com/yourname/mikucode/releases/latest)
 > **Note:** This is a closed-source project. Only compiled binaries are distributed.
 
 ### Windows
-1. Download `MikuCode.exe` from [Releases](https://github.com/yourname/mikucode/releases)
+1. Download `MikuCode.exe` from [Releases](https://github.com/mell_real/mikucode/releases)
 2. Run it. No installation needed (portable).
 3. On first launch, Windows Defender may warn — click **More info** → **Run anyway**.
 
